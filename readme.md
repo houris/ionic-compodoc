@@ -1,17 +1,21 @@
-Compodoc Demo ionic 
+Ionic-compodoc
 =====================
 
+![compodoc](https://avatars3.githubusercontent.com/u/23202313)
+ 
 
 ## Description
 
 It is a demo project for demonstrating Compodoc features :
 
-    architecture
-    components documentation
-    embedding images
-    documentating methods and properties of components, classes, interfaces, etc...
+    Architecture
+    Components documentation
+    Embedding images
+    Documentating methods and properties of components, classes, interfaces, etc...
 
-## Installation
 
-Run npm run compodoc to generate the documentation . 
+## Development server
+
+
+Run npm run compodoc to generate the documentation . <br/>
 The documentation is served at 127.0.0.1:8080
