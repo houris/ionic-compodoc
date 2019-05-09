@@ -1,8 +1,10 @@
 Ionic-compodoc
 =====================
 
-![compodoc](https://avatars3.githubusercontent.com/u/23202313){ width="800" height="600" style="display: block; margin: 0 auto" }
- 
+
+<p align="center">
+![compodoc](https://avatars3.githubusercontent.com/u/23202313)
+</p> 
 
 ## Description
 
