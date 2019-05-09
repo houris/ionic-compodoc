@@ -3,7 +3,7 @@ Ionic-compodoc
 
 
 <p align="center">
-![compodoc](https://avatars3.githubusercontent.com/u/23202313)
+  <img width="460" height="300" src="https://avatars3.githubusercontent.com/u/23202313">
 </p> 
 
 ## Description
